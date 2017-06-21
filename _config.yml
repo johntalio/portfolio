@@ -19,9 +19,7 @@ resources: Resources
 contact: Contact Me
 more: Additional Sites
 description: > # this means to ignore newlines until "baseurl:"
-  Hello and welcome! My name is John and I am a budding full stack web developer and lifelong student
-  searching for any opportunity to continue my education. Please browse some of my work, my social media and
-  other sites, as well as my blog posts. Also, please feel free to email me with any questions, comments,
+  John is a web developer and writer. Please feel free to email John with any questions, comments,
   or potential career opportunities. Thank you!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
