@@ -4,8 +4,10 @@ title: About Me
 permalink: /about/
 ---
 
-In 2014 I graduated from Fordham University with a BA in English and International Political Economy, and while I excelled academically at Fordham, I found navigating the job market particularly difficult. After two years of working in dead-end, unfulfilling jobs, I decided to take a leap of faith and enroll in Dev Bootcamp (DBC) to further my education and gain a completely new skill set.
+In 2014, I graduated from Fordham University with a Bachelor of Arts in English and International Political Economy. During my time at Fordham, I cultivated my love of creative pursuits such as writing, literature, theater, and film. I also enjoyed studying statistics, foreign policy, international affairs, and much more.
 
-I graduated from DBC in February of 2017, and I can say with confidence that it changed my outlook on life. DBC rekindled my desire for growth and learning and lifted me out of the stagnant mire in which I found myself only 19 weeks prior. DBC introduced me to coding and I love it: I love the challenge it poses, the curiosity it inspires, and all that awaits.
+After college, I worked a few part time jobs and continued exploring new avenues of interests. After visiting Epic Systems' campus in Verona, WI and interning with Gartner in Stamford, CT, I began seriously considering a change in my professional life. It was not long after that I started researched coding bootcamps and found Dev Bootcamp (DBC).
 
-While I am focusing primarily on coding right now, I still hold my other passions - reading, writing, learning about different cultures and places - dear to me. I am always interested in learning new things and exploring new spaces. I hope you enjoy my portfolio and please feel free to contact me!
+DBC introduced me to coding and I was delighted by it: I love the challenge it poses, the curiosity it inspires, and the endless possibilities. I graduated from DBC in February 2017 and have been coding ever since.
+
+While I am focusing primarily on coding right now, I still hold my other passions - reading, writing, learning about different cultures and places - dear to me. I am always interested in learning new things and exploring new spaces, and I am interested in finding out where coding takes me.
