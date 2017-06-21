@@ -6,6 +6,8 @@ categories: projects
 ---
 truthy.herokuapp.com (link inactive)
 
+
+
 https://github.com/johntalio/Truthy (github)
 
 Truthy is a web application created as a final project for Dev Bootcamp. I collaborated on Truthy with three other talented wed developers and fellow DBC alumni: Supui "Tony" Lam, Jefferson Faseler, and Kevin Hu.
