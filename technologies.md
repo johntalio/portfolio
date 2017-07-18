@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Technologies
-permalink: /technologies/
+permalink: /portfolio/technologies/
 ---
 I am proficient in the following technologies:
 
