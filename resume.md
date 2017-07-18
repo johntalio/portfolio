@@ -1,7 +1,7 @@
 ---
 layout: page
 title: My Resume
-permalink: /portfolio/resume/
+permalink: /resume/
 ---
 *(914) 602-8626 • jtalio@fordham.edu • [John's GitHub](http://github.com/johntalio) • [John's Portfolio](http://johntalio.github.io/portfolio)*
 

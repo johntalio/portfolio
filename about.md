@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /portfolio/about/
+permalink: /about/
 ---
 
 In 2014, I graduated from Fordham University with a Bachelor of Arts in English and International Political Economy. During my time at Fordham, I cultivated my love of creative pursuits such as writing, literature, theater, and film. I also enjoyed studying statistics, foreign policy, international affairs, and much more.
