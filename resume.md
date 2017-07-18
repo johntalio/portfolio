@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 title: My Resume
 permalink: /resume/
@@ -74,4 +74,4 @@ TECHNOLOGIES AND ADDITIONAL SKILLS:
 -----------------------------------
 Ruby, Ruby on Rails, RSpec, Sinatra, Active Record, MVC, JavaScript, ES6, Jasmine, jQuery, AJAX, React, D3, HTML, CSS, SQL, SQLite.
 
-GitHub, Git VCS, Agile Methodologies, Scrum, Unix, Microsoft Office Suite, LinkedIn.
+GitHub, Git VCS, Agile Methodologies, Scrum, Unix, Microsoft Office Suite, LinkedIn. -->
